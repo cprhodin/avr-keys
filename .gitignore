@@ -1,0 +1,5 @@
+**/.depends
+**/.objects
+avr-keys
+avr-keys.dump
+librb/librb.a
